@@ -19,6 +19,11 @@
     align-items: center;
 }
 
+.small-card_title > h1{
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
 .container_small-card_separator{
     margin-bottom: 10px;
 }
