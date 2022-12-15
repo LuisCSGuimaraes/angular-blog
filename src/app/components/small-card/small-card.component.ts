@@ -16,4 +16,6 @@ export class SmallCardComponent {
   @Input()
   cardTitle: string = ""
 
-}
+  @Input()
+  Id: string = ""
+  }
